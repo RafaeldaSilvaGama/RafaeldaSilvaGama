@@ -35,7 +35,7 @@ Aos poucos vou atualizando o git com novos projetos.
   ## <br /> 🙋‍♂️ Connect with me
  <a href="https://www.instagram.com/rafaelgama9032/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "rafaelgamadev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href="www.linkedin.com/in/rafaelgamadeveloper" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   
 ![Snake animation](https://github.com/RafaeldaSilvaGama/RafaeldaSilvaGama/blob/output/github-contribution-grid-snake.svg)
